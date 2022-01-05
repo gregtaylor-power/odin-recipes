@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background-color:lightskyblue;*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 32px;
+}
+
+.desc {
+    margin-left: 215px;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
+
+button {
+    background-color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
